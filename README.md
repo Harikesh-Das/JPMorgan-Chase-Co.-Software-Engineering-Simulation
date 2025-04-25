@@ -1,1 +1,2 @@
-# JPMorgan-Chase-Co.-Software-Engineering-Simulation
+# Midas
+Project repo for the JPMC Advanced Software Engineering Forage program
